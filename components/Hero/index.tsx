@@ -18,6 +18,7 @@ export function Hero() {
         <Image
           src={BackgroundGradient}
           layout="fill"
+          unoptimized
           objectFit="cover"
           alt="Background"
           className="w-full block lg:hidden"

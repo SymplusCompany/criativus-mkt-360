@@ -37,7 +37,7 @@ export function CardClients({
         </div>
         <div className="flex gap-3 w-full text-sm">
           <p className="font-semibold">{client}</p>
-          <p className="text-gray-500">{company}</p>
+          <p className="text-gray-600">{company}</p>
         </div>
       </div>
     </div>
