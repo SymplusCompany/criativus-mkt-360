@@ -24,7 +24,10 @@ export function Footer() {
             <Link href="#">Termos e condições</Link>
           </div>
           <div className="flex gap-3">
-            <Link href="#">
+            <Link
+              href="https://www.instagram.com/criativusmkt360/"
+              target="_blank"
+            >
               <Image
                 src={InstagramLogo}
                 alt="Instagram logo"
@@ -32,7 +35,7 @@ export function Footer() {
                 height={24}
               />
             </Link>
-            <Link href="#">
+            <Link href="https://wa.me/5577999501850" target="_blank">
               <Image
                 src={WhatsappLogo}
                 alt="Instagram logo"

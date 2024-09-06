@@ -9,31 +9,31 @@ import Bolsa from "../../public/bolsas.webp"
 const products = [
   {
     description:
-      "Track has simplified all my tasks.Managing my work has become easier.”",
+      "Transforme suas ideias em realidade com nosso Material Gráfico de alta qualidade! Clique aqui para solicitar o seu e veja a diferença que ele pode fazer no seu trabalho.",
     title: "Material Gráfico",
     imageProducts: Design,
-    href: "#",
+    href: "https://wa.me/5577999501850",
   },
   {
     description:
-      "Track has simplified all my tasks.Managing my work has become easier.”",
+      " Dê um impulso ao seu negócio com um Totem personalizado! É a forma perfeita de chamar a atenção e destacar sua marca. Peça o seu agora e faça sua empresa brilhar!",
     title: "Totem",
     imageProducts: Totem,
-    href: "#",
+    href: "https://wa.me/5577999501850",
   },
   {
     description:
-      "Track has simplified all my tasks.Managing my work has become easier.”",
+      "Complete seu look com um Boné estiloso e exclusivo! Escolha o seu modelo agora e adicione um toque de personalidade ao seu visual. Adquira o seu hoje mesmo!",
     title: "Boné",
     imageProducts: Bone,
-    href: "#",
+    href: "https://wa.me/5577999501850",
   },
   {
     description:
-      "Track has simplified all my tasks.Managing my work has become easier.”",
+      "Transforme seu dia a dia com nossas Bolsas práticas e elegantes! Encontre o modelo perfeito para você e adicione estilo e funcionalidade ao seu cotidiano. Compre a sua agora!",
     title: "Bolsas",
     imageProducts: Bolsa,
-    href: "#",
+    href: "https://wa.me/5577999501850",
   },
 ]
 
@@ -60,6 +60,7 @@ export function CardProduct() {
 
             <Link
               className="bg-[#485AFF] text-sm px-2 py-2 rounded-lg text-center"
+              target="_blank"
               href={item.href}
             >
               Veja mais

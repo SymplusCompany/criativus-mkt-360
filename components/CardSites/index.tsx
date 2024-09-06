@@ -29,7 +29,8 @@ export function CardSites() {
 
         <div className="flex items-center justify-center">
           <Link
-            href="#"
+            href="https://wa.me/5577999501850"
+            target="_blank"
             className="bg-[#485AFF] px-3 py-4 w-fit rounded-lg text-sm text-center"
           >
             Conversar Conosco
@@ -61,7 +62,8 @@ export function CardSites() {
 
         <div className="flex items-center justify-center">
           <Link
-            href="#"
+            href="https://wa.me/5577999501850"
+            target="_blank"
             className="bg-[#485AFF] px-3 py-4 w-fit rounded-lg text-sm text-center"
           >
             Conversar Conosco
@@ -97,7 +99,8 @@ export function CardSites() {
 
         <div className="flex items-center justify-center">
           <Link
-            href="#"
+            href="https://wa.me/5577999501850"
+            target="_blank"
             className="bg-[#485AFF] px-3 py-4 w-fit rounded-lg text-sm text-center"
           >
             Conversar Conosco
@@ -133,7 +136,8 @@ export function CardSites() {
 
         <div className="flex items-center justify-center">
           <Link
-            href="#"
+            href="https://wa.me/5577999501850"
+            target="_blank"
             className="bg-[#485AFF] px-3 py-4 w-fit rounded-lg text-sm text-center"
           >
             Conversar Conosco

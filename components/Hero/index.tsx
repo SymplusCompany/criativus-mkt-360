@@ -39,7 +39,8 @@ export function Hero() {
             online de maneira única e envolvente.
           </p>
           <Link
-            href="#"
+            href="https://wa.me/5577999501850"
+            target="_blank"
             className="bg-[#485AFF] text-white px-6 py-3 rounded-md text-sm"
           >
             Fale Conosco
