@@ -8,28 +8,34 @@ import "slick-carousel/slick/slick-theme.css"
 
 const customersSay = [
   {
-    description:
-      "Track has simplified all my tasks.Managing my work has become easier.”",
-    client: "John Doe",
-    company: "ABC Company",
+    description: 
+      "A Criativus Marketing 360 transformou nossa presença online com soluções criativas e personalizadas. A gestão das nossas mídias sociais nunca foi tão eficiente e impactante.",
+    client: "Ana Silva",
+    company: "Doce Aliança",
   },
   {
-    description:
-      "Track has simplified all my tasks.Managing my work has become easier.”",
-    client: "John Doe",
-    company: "ABC Company",
+    description: 
+      "O trabalho da Criativus Marketing 360 foi fundamental para modernizar nosso site e otimizar nosso tráfego pago. Vimos um crescimento significativo em nosso engajamento e conversões.",
+    client: "Carlos Souza",
+    company: "Hospital Central Sermege",
   },
   {
-    description:
-      "Track has simplified all my tasks.Managing my work has become easier.”",
-    client: "John Doe",
-    company: "ABC Company",
+    description: 
+      "A equipe da Criativus Marketing 360 criou vídeos incríveis e um design gráfico de alta qualidade que realmente capturaram a essência da nossa marca. Eles são especialistas em transformar ideias em resultados.",
+    client: "Laura Fernandes",
+    company: "G6 Telecom",
   },
   {
-    description:
-      "Track has simplified all my tasks.Managing my work has become easier.”",
-    client: "John Doe",
-    company: "ABC Company",
+    description: 
+      "Desde que começamos a trabalhar com a Criativus Marketing 360, nosso alcance nas redes sociais e a eficiência do tráfego pago melhoraram drasticamente. São verdadeiros parceiros no crescimento da nossa empresa.",
+    client: "Luano Meira",
+    company: "Lanyes Telecom",
+  },
+  {
+    description: 
+      "A Criativus Marketing 360 fez um trabalho excepcional com o design gráfico e o desenvolvimento do nosso site. Sua criatividade e profissionalismo fizeram toda a diferença para o sucesso do nosso projeto.",
+    client: "Juliana Marques",
+    company: "Marques Estofados",
   },
 ]
 
