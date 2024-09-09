@@ -55,7 +55,7 @@ export function CardProduct() {
           <div className="flex flex-col justify-between gap-3">
             <div className="flex flex-col gap-3 text-sm">
               <p className="font-semibold">{item.title}</p>
-              <p className="text-gray-600">{item.description}</p>
+              <p className="text-gray-400 text-sm">{item.description}</p>
             </div>
 
             <Link

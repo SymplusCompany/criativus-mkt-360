@@ -19,10 +19,10 @@ export function Footer() {
 
       <div className="flex flex-col gap-2 md:items-end mt-12 md:mt-0">
         <div className="flex flex-col md:flex-row gap-4 text-sm">
-          <div className="flex items-center gap-4">
+          {/* <div className="flex items-center gap-4">
             <Link href="#">Privacidade e Política</Link>
             <Link href="#">Termos e condições</Link>
-          </div>
+          </div> */}
           <div className="flex gap-3">
             <Link
               href="https://www.instagram.com/criativusmkt360/"

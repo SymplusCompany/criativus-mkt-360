@@ -10,7 +10,7 @@ export function Hero() {
       <div className="absolute inset-0 z-0">
         <Image
           src={BackgroundGradientTeam}
-          objectFit="cover"
+          fill
           alt="Background"
           className="w-full lg:h-full hidden lg:block"
         />

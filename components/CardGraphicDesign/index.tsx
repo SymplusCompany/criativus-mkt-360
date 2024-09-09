@@ -28,7 +28,8 @@ export function CardGraphicDesign() {
 
           <div className="flex items-center justify-center">
             <Link
-              href="#"
+              href="https://wa.me/5577999501850"
+              target="_blank"
               className="bg-[#485AFF] md:px-3 px-2 md:py-4 py-3 w-fit rounded-lg text-sm text-center"
             >
               Conversar Conosco
@@ -57,7 +58,8 @@ export function CardGraphicDesign() {
 
           <div className="flex items-center justify-center">
             <Link
-              href="#"
+              href="https://wa.me/5577999501850"
+              target="_blank"
               className="bg-[#485AFF] md:px-3 px-2 md:py-4 py-3 w-fit rounded-lg text-sm text-center"
             >
               Conversar Conosco
@@ -86,7 +88,8 @@ export function CardGraphicDesign() {
 
           <div className="flex items-center justify-center">
             <Link
-              href="#"
+              href="https://wa.me/5577999501850"
+              target="_blank"
               className="bg-[#485AFF] md:px-3 px-2 md:py-4 py-3 w-fit rounded-lg text-sm text-center"
             >
               Conversar Conosco
@@ -115,7 +118,8 @@ export function CardGraphicDesign() {
 
           <div className="flex items-center justify-center">
             <Link
-              href="#"
+              href="https://wa.me/5577999501850"
+              target="_blank"
               className="bg-[#485AFF] md:px-3 px-2 md:py-4 py-3 w-fit rounded-lg text-sm text-center"
             >
               Conversar Conosco
@@ -144,7 +148,8 @@ export function CardGraphicDesign() {
 
           <div className="flex items-center justify-center">
             <Link
-              href="#"
+              href="https://wa.me/5577999501850"
+              target="_blank"
               className="bg-[#485AFF] md:px-3 px-2 md:py-4 py-3 w-fit rounded-lg text-sm text-center"
             >
               Conversar Conosco
