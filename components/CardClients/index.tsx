@@ -16,15 +16,7 @@ export function CardClients({
 }: CardClientsProps) {
   return (
     <div className="w-full flex gap-2 p-4 rounded-lg shadow-md">
-      <div className="hidden xl:inline-flex">
-        <Image
-          src={ImageClient}
-          alt={`Foto do cliente ${client}`}
-          width={200}
-          height={20}
-          className="w-[300px]"
-        />
-      </div>
+
       <div className="flex flex-col justify-between gap-3">
         <div className="flex flex-col gap-2">
           <Image
