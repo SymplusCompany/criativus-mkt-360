@@ -7,7 +7,7 @@ import Link from "next/link"
 export function Hero() {
   return (
     <div className="relative w-full overflow-hidden">
-      <div className=" inset-0 z-0 h-[150px]">
+      <div className=" inset-0 z-0 lg:h-[150px]">
         <Image
           src={BackgroundGradientTeam}
           objectFit="cover"
