@@ -39,33 +39,32 @@ const products = [
 
 export function CardProduct() {
   return (
-    <div className="w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 my-10 md:my-14">
+    <div className="w-[80%] m-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 my-10 md:my-14">
       {products.map((item, index) => (
         <div
           className="flex flex-col gap-2 p-4 rounded-lg shadow-md bg-[#18181B]"
           key={index}
         >
-          <div className="w-full">
+          <div className="w-full flex flex-col">
             <Image
               src={item.imageProducts}
               alt={`Foto do produto ${item.title}`}
               className="w-full h-[120px] object-contain"
             />
           </div>
-          <div className="flex flex-col justify-between gap-3">
+          <div className="flex flex-col justify-between gap-3 flex-1">
             <div className="flex flex-col gap-3 text-sm">
               <p className="font-semibold">{item.title}</p>
               <p className="text-gray-400 text-sm">{item.description}</p>
             </div>
-
-            <Link
-              className="bg-[#485AFF] text-sm px-2 py-2 rounded-lg text-center"
-              target="_blank"
-              href={item.href}
-            >
-              Veja mais
-            </Link>
           </div>
+          <Link
+            className="bg-[#485AFF] text-sm px-2 py-2 rounded-lg text-center"
+            target="_blank"
+            href={item.href}
+          >
+            Veja mais
+          </Link>
         </div>
       ))}
     </div>

@@ -25,7 +25,7 @@ export function Hero() {
         />
       </div>
 
-      <div className="relative z-10 flex flex-col md:flex-row items-center justify-between px-8 py-10 md:px-20 lg:py-5 xl:py-20">
+      <div className="relative z-10 flex flex-col md:flex-row items-center justify-between px-8 py-10 md:px-20 lg:py-5 xl:py-20 w-[90%] m-auto">
         <div className="w-full lg:w-1/2 text-white">
           <p className="font-semibold text-sm md:text-lg lg:text-sm xl:text-lg text-[#20A5B2]">
             Uma agência completa de marketing Digital

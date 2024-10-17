@@ -29,7 +29,7 @@ export function ServicesSection() {
         </p>
       </div>
 
-      <div className="flex flex-wrap gap-2 my-10 md:my-14">
+      <div className="flex flex-wrap justify-center gap-2 my-10 md:my-14">
         {tabs.map((tab) => (
           <button
             key={tab.id}

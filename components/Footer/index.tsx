@@ -12,7 +12,7 @@ export function Footer() {
   const year = date.getFullYear()
 
   return (
-    <div className="px-14 py-8 flex justify-between flex-col md:flex-row">
+    <div className="w-[80%] m-auto px-14 py-8 flex justify-between flex-col md:flex-row">
       <h1>
         <Image src={Logo} alt="logo criativus" width={150} height={50} />
       </h1>

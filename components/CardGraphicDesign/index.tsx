@@ -5,13 +5,15 @@ import CheckIcon from "../../public/check-icon.svg"
 export function CardGraphicDesign() {
   return (
     <div>
-      <h1 className="text-3xl w-full text-[#20A5B2] md:ml-5">Pacotes</h1>
+      <h1 className="text-3xl w-full text-[#20A5B2] text-center md:ml-5">
+        Pacotes
+      </h1>
       <div className="flex gap-6 justify-center flex-wrap mt-10">
         <div className="flex flex-col gap-5 w-[280px] p-6 bg-[#18181B] rounded-lg">
           <div className="flex flex-col gap-5">
             <div className="flex items-baseline">
               <p className=" text-3xl md:text-5xl">
-                R$ <span>50</span>
+                f R$ <span>50</span>
               </p>
               <span className="text-sm text-gray-400">/und</span>
             </div>

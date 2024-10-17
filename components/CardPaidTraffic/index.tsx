@@ -5,7 +5,7 @@ import CheckIcon from "../../public/check-icon.svg"
 
 export function CardPaidTraffic() {
   return (
-    <div className="flex gap-6 flex-wrap lg:ml-5">
+    <div className="flex justify-center gap-6 flex-wrap lg:ml-5">
       <div className="flex flex-col gap-5 w-[280px] p-6 bg-[#18181B] rounded-lg min-h-[555px]">
         <p className="text-base">Tráfego Pago</p>
         <div className="flex flex-col gap-5 flex-grow">

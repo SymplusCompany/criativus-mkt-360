@@ -1,6 +1,5 @@
 import Image from "next/image"
 
-import ImageClient from "../../public/cliente.png"
 import FiveStar from "../../public/five-star.svg"
 
 interface CardClientsProps {
@@ -16,7 +15,6 @@ export function CardClients({
 }: CardClientsProps) {
   return (
     <div className="w-full flex gap-2 p-4 rounded-lg shadow-md">
-
       <div className="flex flex-col justify-between gap-3">
         <div className="flex flex-col gap-2">
           <Image
